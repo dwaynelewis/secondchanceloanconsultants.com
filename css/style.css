@@ -843,7 +843,7 @@ a:focus {
    background-size: cover;
 }
 .slider-bg::after {
-    background: rgba(0,0,0,.7);
+    background: rgba(0,0,0,.2);
     content: "";
     height: 100%;
     left: 0;
