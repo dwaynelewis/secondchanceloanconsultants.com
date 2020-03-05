@@ -718,7 +718,7 @@ a:focus {
  7. Background image set
 ---------------------------------------*/
 .counter-bg{
-  background: rgba(0,0,0,0) url("../image/banner/dummy-image.jpg");/* Change the dummy image*/
+  background: rgba(0,0,0,0) url("../image/bg-text.jpg");/* Change the dummy image*/
   background-clip: initial;
   background-color: rgba(255,255,255,0);
   background-origin: initial;
