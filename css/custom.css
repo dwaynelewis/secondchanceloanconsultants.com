@@ -1,0 +1,26 @@
+.short-msg a.short-topup {
+    border-radius: 5px;
+    bottom: 15px;
+    color: #fff;
+    height: 40px;
+    line-height: 36px;
+    position: fixed;
+    left: 20px;
+    text-align: center;
+    width: 20%;
+    font-size: 20px;
+    z-index: 999;
+}
+
+/* On screens that are 992px wide or less */
+@media screen and (max-width: 992px) {
+  .short-msg a.short-topup {
+    width: 40%;
+    }
+}
+/* On screens that are 600px wide or less */
+@media screen and (max-width: 600px) {
+  .short-msg a.short-topup {
+    width: 50%;
+    }
+}
